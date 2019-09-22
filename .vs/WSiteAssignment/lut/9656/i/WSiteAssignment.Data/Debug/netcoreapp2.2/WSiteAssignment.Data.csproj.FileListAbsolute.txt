@@ -1,0 +1,13 @@
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.deps.json
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.runtimeconfig.json
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.runtimeconfig.dev.json
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.dll
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.csprojAssemblyReference.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.csproj.CoreCompileInputs.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.RazorAssemblyInfo.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.RazorAssemblyInfo.cs
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.AssemblyInfoInputs.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.AssemblyInfo.cs
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.RazorTargetAssemblyInfo.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.csproj.CopyComplete
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.Data\Debug\netcoreapp2.2\WSiteAssignment.Data.dll

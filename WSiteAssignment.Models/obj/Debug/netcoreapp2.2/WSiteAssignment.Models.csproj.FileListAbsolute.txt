@@ -1,0 +1,14 @@
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\bin\Debug\netcoreapp2.2\WSiteAssignment.Models.deps.json
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\bin\Debug\netcoreapp2.2\WSiteAssignment.Models.runtimeconfig.json
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\bin\Debug\netcoreapp2.2\WSiteAssignment.Models.runtimeconfig.dev.json
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\bin\Debug\netcoreapp2.2\WSiteAssignment.Models.dll
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\bin\Debug\netcoreapp2.2\WSiteAssignment.Models.pdb
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.csprojAssemblyReference.cache
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.csproj.CoreCompileInputs.cache
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.RazorAssemblyInfo.cache
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.RazorAssemblyInfo.cs
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.AssemblyInfoInputs.cache
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.AssemblyInfo.cs
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.RazorTargetAssemblyInfo.cache
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.dll
+D:\Projects\TestProjects\WSiteAssignment\WSiteAssignment.Models\obj\Debug\netcoreapp2.2\WSiteAssignment.Models.pdb

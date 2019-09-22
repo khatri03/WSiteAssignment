@@ -1,0 +1,15 @@
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\testhost.exe
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\testhost.dll
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.deps.json
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.runtimeconfig.json
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.runtimeconfig.dev.json
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\b\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.dll
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.csprojAssemblyReference.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.csproj.CoreCompileInputs.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.AssemblyInfoInputs.cache
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.AssemblyInfo.cs
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.csproj.CopyComplete
+D:\Projects\TestProjects\WSiteAssignment\.vs\WSiteAssignment\lut\0\i\WSiteAssignment.API.Test\Debug\netcoreapp2.2\WSiteAssignment.API.Test.dll
